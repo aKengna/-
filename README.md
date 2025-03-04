@@ -113,8 +113,6 @@
 - 叠衣服模块1-138
 - 放衣服模块
 
-![image-20250221170747961](https://github.com/user-attachments/assets/d777cf50-51e9-4031-a13f-0d34eb192f16)
-
 
 - 衣架上挂着的衣服取下来（？）
 
